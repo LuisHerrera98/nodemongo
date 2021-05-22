@@ -1,5 +1,5 @@
 {
-  "name": "nodeMongo",
+  "name": "nodemongo",
   "version": "1.0.0",
   "description": "proyecto node y mongo",
   "main": "index.js",
