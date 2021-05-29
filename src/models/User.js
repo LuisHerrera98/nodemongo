@@ -27,3 +27,5 @@ UserSchema.methods.matchPassword = async function(password){
 }
 
 module.exports = model('User', UserSchema);
+
+//id:uuid, event:string, type:string, created_at, update_at, details : JSON(no requerido)
